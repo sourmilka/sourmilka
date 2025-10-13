@@ -1,170 +1,169 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sourmilk&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=SOURMILK&fontSize=70&color=0:FF6B35,50:F7931E,100:FDC830&stroke=FF6B35&strokeWidth=2&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Believe%20It!&descAlignY=60&descSize=20&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer;Real-Time+Applications+Specialist;Web3+%26+Blockchain+Enthusiast;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Real-Time+%26+Web3+Specialist;%F0%9F%94%A5+Next.js+%2B+TypeScript+Master;%F0%9F%8E%AE+Gaming+%2B+Blockchain+Builder;%E2%9C%A8+Code+is+my+Nindo!)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌐_Saintshood.org-Visit_Website-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍_Georgia-UTC+04:00-00D9FF?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=sourmilka&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://saintshood.org"><img src="https://img.shields.io/badge/Website-saintshood.org-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a"/></a>
-  <a href="mailto:contact@saintshood.org"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"/></a>
-  <a href="https://github.com/sourmilka"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/></a>
-</p>
+<img src="https://img.shields.io/badge/Georgia_🇬🇪-UTC+04:00-FF6B35?style=flat-square&labelColor=1a1a1a" />
+<img src="https://komarev.com/ghpvc/?username=sourmilka&label=Visitors&color=FF6B35&style=flat-square" />
+<img src="https://img.shields.io/github/followers/sourmilka?label=Followers&style=flat-square&color=FDC830&labelColor=1a1a1a" />
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> CODE NINJA
 
-## 🚀 About Me
+<img align="right" alt="Ninja Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-</div>
-
-```typescript
-const sourmilk = {
-    pronouns: "He" | "Him",
-    location: "Georgia 🇬🇪",
-    timezone: "UTC+04:00",
-    role: "Full Stack Developer",
-    focus: ["Real-Time Apps", "Web3", "Gaming Tech"],
-    askMeAbout: ["Web Dev", "Blockchain", "Game Tools"],
-    technologies: {
-        frontEnd: {
-            js: ["Next.js", "React", "TypeScript"],
-            css: ["Tailwind", "Framer Motion"]
-        },
-        backEnd: {
-            runtime: ["Node.js"],
-            databases: ["MongoDB", "MongoDB Atlas"]
-        },
-        blockchain: ["Solana", "Web3.js"],
-        devOps: ["Vercel", "GitHub Actions", "CI/CD"],
-        tools: ["Git", "VS Code", "Cursor AI"]
-    },
-    currentlyLearning: ["Advanced Solana", "AI/ML Integration"],
-    funFact: "I build the gaming tools I wish existed"
+```javascript
+// 🍥 My Developer Nindo (Ninja Way)
+const codeNinja = {
+  name: "Sourmilk",
+  village: "Georgia 🇬🇪",
+  rank: "Full Stack Jonin",
+  chakraNature: ["⚡ Lightning (Speed)", "🌊 Water (Flow)", "🔥 Fire (Passion)"],
+  
+  jutsu: {
+    frontend: ["Next.js Rasengan", "React Shadow Clone", "TypeScript Sharingan"],
+    backend: ["Node.js Summoning", "MongoDB Byakugan"],
+    web3: ["Solana Sage Mode", "Web3 Nine-Tails Chakra"]
+  },
+  
+  mission: "Build epic apps that users love",
+  motto: "Dattebayo! 🍜",
+  powerlevel: "Over 9000+"
 };
 ```
 
-<br/>
+**🎯 Current Mission:** Building real-time Web3 platforms  
+**⚡ Special Ability:** Turning coffee into code  
+**🔥 Power Level:** Shipping features at Sharingan speed  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> ARSENAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,nodejs,mongodb,express,solana,vercel,github,git,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,mongodb,solana,vercel,github,git,vscode&theme=dark&perline=12" />
 </p>
 
-<div align="center">
-
-| Frontend | Backend | Web3 | Tools |
-|:--------:|:-------:|:----:|:-----:|
-| ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black) | ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white) | | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![REST API](https://img.shields.io/badge/REST-009688?style=flat-square&logoColor=white) | | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-
-</div>
-
-<br/>
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
+<br><b>Frontend</b>
+<br>Next.js • React • TS
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" height="50" />
+<br><b>Backend</b>
+<br>Node • MongoDB • API
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/network-icon.svg" width="50" height="50" />
+<br><b>Web3</b>
+<br>Solana • Blockchain
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
+<br><b>Deploy</b>
+<br>Vercel • GitHub
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> EPIC PROJECTS
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" height="50"> Featured Projects
+<table>
+<tr><td>
+
+**🎮 MINECRAFT ENCHANTMENT TRACKER**  
+[![Live](https://img.shields.io/badge/🔴_LIVE-00D9FF?style=flat-square&labelColor=1a1a1a)](https://mineraftserver.vercel.app) [![Code](https://img.shields.io/badge/📂_CODE-181717?style=flat-square&logo=github&labelColor=1a1a1a)](https://github.com/Betscape/mineraftserver)
+
+`Next.js` `TypeScript` `MongoDB` `Vercel` `Tailwind` `Real-Time`
+
+Collaborative enchantment tracker • Authentic Minecraft GUI • Multi-user sync • 40+ enchantments • Analytics dashboard
+
+</td></tr>
+<tr><td>
+
+**🎯 VALORANT PARTY FINDER**  
+[![Live](https://img.shields.io/badge/🔴_LIVE-00D9FF?style=flat-square&labelColor=1a1a1a)](https://valo-jgero961-8734s-projects.vercel.app) [![Code](https://img.shields.io/badge/📂_CODE-181717?style=flat-square&logo=github&labelColor=1a1a1a)](https://github.com/Betscape/valorant-party-finder)
+
+`TypeScript` `MongoDB` `WebSockets` `Real-Time Matching`
+
+Real-time matchmaking • Live chat • Rank filtering • Player stats • Secure auth
+
+</td></tr>
+<tr><td>
+
+**📈 KOL SNIPER DASHBOARD**  
+[![Dev](https://img.shields.io/badge/⚡_DEV-FFA500?style=flat-square&labelColor=1a1a1a)](https://github.com/sourmilka/kol-sniper-dashboard) [![Code](https://img.shields.io/badge/📂_CODE-181717?style=flat-square&logo=github&labelColor=1a1a1a)](https://github.com/sourmilka/kol-sniper-dashboard)
+
+`TypeScript` `Solana` `Web3.js` `Real-Time Streams`
+
+Solana trading analytics • KOL wallet tracking • Live price feeds • Smart alerts
+
+</td></tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="30" /> STATS & POWER LEVEL
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sourmilka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FDC830&text_color=fff&ring_color=FF6B35"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourmilka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=fff"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourmilka&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B35&fire=FDC830&currStreakLabel=fff&sideLabels=FF6B35" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sourmilka&theme=discord&no-frame=true&no-bg=true&margin-w=3&row=1&column=7" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" /> SPECIAL ABILITIES
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="33%">
 
-### 🎮 Minecraft Enchantment Tracker
-[![Project](https://img.shields.io/badge/Project-Live-00D9FF?style=for-the-badge)](https://mineraftserver.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Betscape/mineraftserver)
-
-**Collaborative enchantment management for Minecraft servers**
-
-Real-time tracking system for villager trading halls with authentic Minecraft UI, progress analytics, and team collaboration features.
-
-**Stack:** `Next.js 15` `TypeScript` `MongoDB` `Vercel` `Tailwind`
-
-**Highlights:**
-- 🔄 Real-time MongoDB updates
-- 🎨 Authentic Minecraft GUI
-- 📊 Analytics dashboard
-- 👥 Multi-user collaboration
-- ⚡ Serverless architecture
+**⚡ LIGHTNING STYLE**  
+Frontend Mastery
+- Next.js 15 Jutsu
+- React Shadow Clones
+- TypeScript Sharingan
+- Tailwind Chakra Control
+- Animation Techniques
 
 </td>
-<td width="50%">
+<td valign="top" width="33%">
 
-### 🎯 Valorant Party Finder
-[![Project](https://img.shields.io/badge/Project-Live-00D9FF?style=for-the-badge)](https://valo-jgero961-8734s-projects.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Betscape/valorant-party-finder)
-
-**Real-time matchmaking for Valorant players**
-
-Professional platform connecting players for ranked matches with live chat, rank filtering, and player statistics.
-
-**Stack:** `TypeScript` `MongoDB` `WebSockets` `Real-time`
-
-**Highlights:**
-- ⚡ Instant player matching
-- 🎮 Rank-based filters
-- 💬 Live chat system
-- 📈 Player stats tracking
-- 🔐 Secure authentication
+**🌊 WATER STYLE**  
+Backend Flow
+- Node.js Summoning
+- MongoDB Data Streams
+- REST API Ninjutsu
+- Mongoose ORM Seals
+- Serverless Cloud Jutsu
 
 </td>
-</tr>
+<td valign="top" width="33%">
 
-<tr>
-<td width="50%">
-
-### 📈 KOL Sniper Dashboard
-[![Status](https://img.shields.io/badge/Status-Development-FFA500?style=for-the-badge)](https://github.com/sourmilka/kol-sniper-dashboard)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/sourmilka/kol-sniper-dashboard)
-
-**Solana meme coin trading analytics**
-
-Advanced dashboard tracking KOL wallet activity on Solana blockchain with real-time price feeds and smart alerts.
-
-**Stack:** `TypeScript` `Solana Web3.js` `Real-time Streams`
-
-**Highlights:**
-- 📊 Live trade monitoring
-- 🔍 Wallet tracking
-- 💰 Token analytics
-- ⚡ Real-time updates
-- 🎯 Smart notifications
-
-</td>
-<td width="50%">
-
-### 🌐 More Projects
-[![Explore](https://img.shields.io/badge/Explore-All_Projects-58A6FF?style=for-the-badge&logo=github)](https://github.com/sourmilka?tab=repositories)
-
-**Building innovative solutions**
-
-Check out my other projects including gaming tools, community platforms, and experimental tech.
-
-**Currently Exploring:**
-- 🤖 AI-powered dev tools
-- 🎮 Gaming community platforms
-- ⛓️ Blockchain applications
-- 🚀 Performance optimization
-- 📱 Mobile-first design
+**🔥 FIRE STYLE**  
+Web3 & Blockchain
+- Solana Sage Mode
+- Web3 Rasengan
+- On-Chain Tracking
+- Wallet Integration
+- Real-Time Feeds
 
 </td>
 </tr>
@@ -172,152 +171,26 @@ Check out my other projects including gaming tools, community platforms, and exp
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-7b8ab644-5888-40a1-a911-e4918c41cd3c.png" width="30" /> NINDO WAY
 
 <p align="center">
-  <a href="https://github.com/sourmilka">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sourmilka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sourmilka&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10"/>
-  </a>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourmilka&theme=algolia&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&border_radius=10" alt="GitHub Streak"/>
-</p>
+> **"Code is my Nindo! I never give up on a bug!"** - Sourmilk Uzumaki
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sourmilka&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
+```bash
+while (alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+```
 
-<details>
-<summary><b>📊 More Stats</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourmilka&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourmilka&theme=github_dark" />
-</p>
-
-</details>
+**🎯 Mission:** Ship epic products | **⚡ Specialty:** Real-time & Web3 | **🔥 Drive:** Gaming tech
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" height="40"> Skills & Expertise
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br/>
-
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⚙️ Backend Development</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⛓️ Web3 & Blockchain</b></summary>
-<br/>
-
-![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🚀 DevOps & Deployment</b></summary>
-<br/>
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=for-the-badge&logo=gitlab&logoColor=white)
-
-</details>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 🌟 Expertise
-
-### **Real-Time Applications**
-- WebSocket integration for live updates
-- MongoDB change streams for real-time data
-- Optimistic UI updates
-- Real-time collaboration features
-
-### **Full Stack Development**
-- Next.js 15 with App Router
-- TypeScript for type-safe code
-- RESTful API design
-- Database schema optimization
-- Server-side rendering (SSR)
-
-### **Web3 & Blockchain**
-- Solana blockchain integration
-- Wallet connectivity
-- On-chain data analytics
-- Token trading systems
-
-### **UI/UX Design**
-- Tailwind CSS mastery
-- Component-driven architecture
-- Responsive design
-- Animation and micro-interactions
-- Theme customization
-
----
-
-## 📈 Project Highlights
-
-| Project | Tech Stack | Status | Features |
-|---------|-----------|--------|----------|
-| **Minecraft Enchantment Tracker** | Next.js, MongoDB, Vercel | 🟢 Live | Real-time collaboration, 40+ enchantments, Progress tracking |
-| **Valorant Party Finder** | TypeScript, MongoDB | 🟢 Live | Real-time matching, Rank filtering, Live chat |
-| **KOL Sniper Dashboard** | TypeScript, Solana | 🟡 Development | Live trading data, KOL tracking, Price analytics |
-
----
-
-## 🎯 Development Philosophy
-
-> "Build fast, build scalable, build for users"
-
-I believe in:
-- **Clean Code** - Readable, maintainable, and well-documented
-- **User-First** - Every feature serves a real user need
-- **Performance** - Speed and efficiency matter
-- **Innovation** - Always learning and implementing cutting-edge tech
-- **Collaboration** - Open source, team work, knowledge sharing
-
----
 
 ## 📫 Let's Connect
 
@@ -350,48 +223,30 @@ I believe in:
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" height="40"> Connect With Me
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> CONNECT
 
 <p align="center">
-  <a href="https://saintshood.org"><img src="https://img.shields.io/badge/-Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:contact@saintshood.org"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/sourmilka"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sourmilka"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/sourmilka"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://saintshood.org"><img src="https://img.shields.io/badge/🌐_WEBSITE-FF6B35?style=for-the-badge&labelColor=1a1a1a"/></a>
+  <a href="mailto:contact@saintshood.org"><img src="https://img.shields.io/badge/📧_EMAIL-FDC830?style=for-the-badge&labelColor=1a1a1a"/></a>
+  <a href="https://github.com/sourmilka"><img src="https://img.shields.io/badge/⭐_GITHUB-181717?style=for-the-badge&labelColor=1a1a1a"/></a>
 </p>
 
----
-
 <div align="center">
 
-### 💭 Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20my%20Nindo!%20Dattebayo!&author=Sourmilk)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
+## 🐍 CONTRIBUTION SNAKE
 
 ![Snake animation](https://raw.githubusercontent.com/sourmilka/sourmilka/output/github-contribution-grid-snake-dark.svg)
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
----
+**⭐ BELIEVE IT! Star my repos!** ⭐
 
-<div align="center">
-
-### ⭐ Star my repos if you find them interesting!
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" height="60">
-
-**Thanks for visiting!** ✨  
-**Let's build the future together** 🚀
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24,22,20&section=footer"/>
+
 
