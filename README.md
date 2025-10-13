@@ -11,7 +11,7 @@
 ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=800&lines=%3E+FULL+STACK+DEVELOPER;%3E+REAL-TIME+SYSTEMS+ARCHITECT;%3E+WEB3+%26+BLOCKCHAIN+ENGINEER;%3E+MATRIX+%7C+BUILD+%7C+DEPLOY+%7C+REPEAT;%3E+CODING+IN+THE+MATRIX..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=1200&lines=%3E+FULL+STACK+DEVELOPER;%3E+REAL-TIME+SYSTEMS+ARCHITECT;%3E+WEB3+%26+BLOCKCHAIN+ENGINEER;%3E+MATRIX+%7C+BUILD+%7C+DEPLOY+%7C+REPEAT;%3E+CODING+IN+THE+MATRIX..." alt="Typing SVG" /></a>
 
 ```javascript
 > Access Level: ROOT
@@ -25,14 +25,14 @@
 </div>
 
 ```diff
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@                      > INITIALIZING SYSTEM...                              @@
-@@                      > LOADING DEVELOPER PROFILE...                        @@
-@@                      > ACCESS GRANTED                                      @@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@                                          > INITIALIZING SYSTEM...                                                                              @@
+@@                                          > LOADING DEVELOPER PROFILE...                                                                        @@
+@@                                          > ACCESS GRANTED                                                                                      @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ```
 
-<table><tr><td valign="top" width="50%">
+<table width="100%"><tr><td valign="top" width="50%">
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> SYSTEM.INFO
 
@@ -152,7 +152,7 @@ $ echo $STATUS
 $ ls -la ~/projects/production/
 ```
 
-<table><tr><td width="50%" valign="top">
+<table width="100%"><tr><td width="50%" valign="top">
 
 <img src="https://img.shields.io/badge/PROJECT-LIVE-00ff00?style=for-the-badge&logo=vercel&logoColor=00ff00&labelColor=000000"/>
 
@@ -217,12 +217,12 @@ $ ls -la ~/projects/production/
 ```
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sourmilka&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00&ring_color=00ff00"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourmilka&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourmilka&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00&ring_color=00ff00"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourmilka&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourmilka&theme=black-ice&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&stroke=00ff00&sideLabels=00ff00&dates=00ff00&currStreakNum=00ff00" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=sourmilka&theme=black-ice&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&stroke=00ff00&sideLabels=00ff00&dates=00ff00&currStreakNum=00ff00" />
 </p>
 
 <details>
@@ -233,11 +233,15 @@ $ ls -la ~/projects/production/
 ```
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sourmilka&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=sourmilka&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=8&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sourmilka&theme=green&bg_color=000000&color=00ff00&line=00ff00&point=00ff41&area=true&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sourmilka&theme=green&bg_color=000000&color=00ff00&line=00ff00&point=00ff41&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourmilka&theme=github_dark" />
 </p>
 
 </details>
@@ -250,7 +254,7 @@ $ ls -la ~/projects/production/
 > Loading skill matrix...
 ```
 
-<table><tr><td width="33%" valign="top">
+<table width="100%"><tr><td width="33%" valign="top">
 
 **REAL-TIME.SYS**
 ```c
@@ -272,7 +276,7 @@ $ ls -la ~/projects/production/
 • SSR & ISR
 ```
 
-</td><td width="33%" valign="top">
+</td><td width="34%" valign="top">
 
 **WEB3.BLOCKCHAIN**
 ```c
@@ -352,14 +356,14 @@ $ curl -X GET https://sourmilka.dev/contact
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║              🐍 CONTRIBUTION MATRIX VISUALIZATION                ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                                              ║
+║                                            🐍 CONTRIBUTION MATRIX VISUALIZATION                                                              ║
+║                                                                                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-![Snake animation](https://raw.githubusercontent.com/sourmilka/sourmilka/output/github-contribution-grid-snake-dark.svg)
+<img width="98%" src="https://raw.githubusercontent.com/sourmilka/sourmilka/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 ```diff
 + Commits: Logged
@@ -375,25 +379,24 @@ $ curl -X GET https://sourmilka.dev/contact
 <div align="center">
 
 ```
-┌────────────────────────────────────────────────────────────────┐
-│ > SYSTEM MESSAGE:                                              │
-│                                                                │
-│   "In the Matrix, there is no spoon.                          │
-│    In code, there are no limits."                             │
-│                                                                │
-│   - Keep building. Keep shipping. Keep evolving.              │
-│                                                                │
-│ > EOF                                                          │
-└────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ > SYSTEM MESSAGE:                                                                                                                      │
+│                                                                                                                                        │
+│   "In the Matrix, there is no spoon. In code, there are no limits."                                                                   │
+│                                                                                                                                        │
+│   - Keep building. Keep shipping. Keep evolving.                                                                                      │
+│                                                                                                                                        │
+│ > EOF                                                                                                                                  │
+└────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic&author=Anonymous)
+<img width="98%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20in%20logic&author=Anonymous"/>
 
 ### ⚡ MATRIX.TERMINAL
 
 **Thanks for accessing this profile. See you in the Matrix.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00ff00&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00ff00&section=footer"/>
 
 </div>
 
